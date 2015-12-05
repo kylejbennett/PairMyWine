@@ -2,8 +2,13 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-.banner{
-	width: 900px;
-	text-align: center;
-	font-family: 'Poiret One', cursive;
+
+.page{
+	
+	.banner{
+		width: 900px;
+		margin: 0 auto;
+		text-align: center;
+		font-family: 'Poiret One', cursive;
+	}
 }
